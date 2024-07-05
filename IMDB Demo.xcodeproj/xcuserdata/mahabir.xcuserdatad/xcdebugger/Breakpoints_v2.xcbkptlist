@@ -113,6 +113,21 @@
                   endingLineNumber = "19"
                   offsetFromSymbolStart = "392">
                </Location>
+               <Location
+                  uuid = "5F3E4542-3B5E-495F-A365-FD8D02C36A7C - 3499c2e73eb6ed1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDB_Demo.MockAPIManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(modelType: &#x3c4;_0_0.Type, type: IMDB_Demo.EndPointType, isTokenRequired: Swift.Bool, completion: (Swift.Result&lt;&#x3c4;_0_0, IMDB_Demo.DataError&gt;, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "IMDB Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahabir/Documents/imdbDemoFromGit/TestCases/MockAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "392">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
